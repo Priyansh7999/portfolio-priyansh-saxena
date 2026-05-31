@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import Navbar from './components/layout/Navbar'
 import HeroSection from './components/sections/HeroSection'
 import About from './components/sections/About'
-
+import Skills from './components/sections/Skills'
 import Lenis from 'lenis'
 function App() {
   useEffect(() => {
@@ -30,6 +30,7 @@ function App() {
       <main>
         <HeroSection />
         <About />
+        <Skills />
       </main>
     </div>
   )
