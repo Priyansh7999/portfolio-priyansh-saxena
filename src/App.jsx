@@ -6,6 +6,7 @@ import Skills from './components/sections/Skills'
 import Service from './components/sections/Service'
 import Footer from './components/layout/Footer'
 import Lenis from 'lenis'
+import Experience from './components/sections/Experience'
 function App() {
   useEffect(() => {
     const lenis = new Lenis({
@@ -34,6 +35,7 @@ function App() {
         <About />
         <Skills />
         <Service />
+        <Experience />
       </main>
       <Footer />
     </div>
