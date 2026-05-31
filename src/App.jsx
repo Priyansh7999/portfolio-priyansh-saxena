@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import Navbar from './components/layout/Navbar'
+import HeroSection from './components/sections/HeroSection'
 import Lenis from 'lenis'
 function App() {
   useEffect(() => {
@@ -24,6 +25,9 @@ function App() {
   return (
     <div className="min-h-screen bg-black">
       <Navbar />
+      <main>
+        <HeroSection />
+      </main>
     </div>
   )
 }
