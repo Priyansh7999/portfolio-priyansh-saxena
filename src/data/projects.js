@@ -1,4 +1,4 @@
-export const categories = ["All","Full Stack", "Mobile Apps"];
+export const categories = ["All","Web Apps", "Mobile Apps"];
 export const projects = [
     {
         id:1,
