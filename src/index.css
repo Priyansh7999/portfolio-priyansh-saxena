@@ -11,8 +11,6 @@
   html {
     font-family: var(--font-display);
     scroll-behavior: smooth;
-
-    cursor: url('./assets/logo.svg'), auto;
   }
 
   body {
