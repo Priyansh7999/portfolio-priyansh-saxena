@@ -2,7 +2,7 @@ import React from 'react'
 import { SiGithub, SiInstagram, SiLeetcode } from 'react-icons/si'
 import { SlSocialLinkedin } from 'react-icons/sl'
 import { MdEmail } from 'react-icons/md'
-import { PERSONAL_INFO, SOCIAL_LINKS } from '../utils/constants'
+import { PERSONAL_INFO, SOCIAL_LINKS } from '../../utils/constants'
 function ContactInfo() {
     return (
         <div className='flex flex-col gap-5 rounded-xl'>

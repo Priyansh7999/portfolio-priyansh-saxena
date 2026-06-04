@@ -1,7 +1,7 @@
 import React from 'react'
 import { NAV_LINKS, PERSONAL_INFO } from '../../utils/constants'
 import { scrollToSection } from '../../hooks/useScrollSpy'
-import ContactInfo from '../ContactInfo'
+import ContactInfo from '../ui/ContactInfo'
 import SocialMediaCard from '../ui/SocialMediaCard'
 import { MdEmail, MdPhone } from 'react-icons/md'
 function Footer() {

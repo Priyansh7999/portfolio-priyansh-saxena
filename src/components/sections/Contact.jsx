@@ -4,7 +4,7 @@ import { BiComment } from 'react-icons/bi'
 import SocialMediaCard from '../ui/SocialMediaCard'
 import { MdEmail, MdLocationOn, MdPhone } from 'react-icons/md'
 import { PERSONAL_INFO } from '../../utils/constants'
-import ContactInfo from '../ContactInfo'
+import ContactInfo from '../ui/ContactInfo'
 import emailjs from "@emailjs/browser";
 import { useRef } from "react";
 import { useForm } from 'react-hook-form'

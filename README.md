@@ -1,16 +1,97 @@
-# React + Vite
+# Priyansh Saxena - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and interactive portfolio website built to showcase my projects, skills, experience and contact information. The portfolio highlights my work in Full Stack Development, Frontend Development, Mobile App Development, and AI-powered applications.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://portfolio-priyansh-saxena.vercel.app/
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. **Modern Developer Portfolio** – Clean and professional interface to showcase skills, projects, and experience.
 
-## Expanding the ESLint configuration
+2. **Fully Responsive Design** – Optimized for desktop, tablet, and mobile devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. **Smooth Scrolling Experience** – Implemented using Lenis for fluid navigation across sections.
+
+4. **Interactive Hero Section** – Highlights professional profile, achievements, and core technologies.
+
+5. **Detailed About Section** – Presents background, career journey, achievements, and social profiles.
+
+6. **Categorized Skills Showcase** – Displays technical skills organized by development domains and technologies.
+
+7. **Professional Experience Timeline** – Showcases internships and work experience with responsibilities and tech stacks.
+
+8. **Project Portfolio with Filtering** – Allows visitors to browse Full Stack, Frontend, and Mobile App projects with live demos and source code links.
+
+9. **Service Offerings Section** – Highlights expertise in Full Stack Development, Frontend Development, Backend Development, Mobile Apps, and API Integration.
+
+10. **Integrated Contact System** – EmailJS-powered contact form with validation, direct contact information, and social media connectivity.
+
+## Tech Stack
+
+### Frontend
+
+* React.js
+* Vite
+* Tailwind CSS
+* React Icons
+
+### Form Handling
+
+* React Hook Form
+* EmailJS
+
+### Deployment
+
+* Vercel
+
+## Project Structure
+
+```text
+src/
+├── components/
+├── sections/
+├── utils/
+├── assets/
+├── hooks/
+└── App.jsx
+```
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Priyansh7999/portfolio-priyansh-saxena
+```
+
+Navigate to the project directory:
+
+```bash
+cd portfolio-priyansh-saxena
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## Contact
+
+**Priyansh Saxena**
+
+* Email: [priyanshsaxena7999@gmail.com](mailto:priyanshsaxena7999@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/priyansh-saxena-399799254
+* GitHub: https://github.com/Priyansh7999
+
+## License
+
+This project is open-source and available under the MIT License.
