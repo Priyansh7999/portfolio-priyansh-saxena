@@ -5,7 +5,6 @@ export const PERSONAL_INFO = {
     location: "Madhya Pradesh, India",
     mobile: "+91 7999689951",
     tagline: "Software Development Engineer skilled in full-stack development, scalable web applications, and modern software engineering practices. Experienced with React.js, Spring Boot, Node.js, CI/CD, Agile workflows, and building high-quality production-ready applications.",
-    resume: "https://drive.google.com/file/d/1bEkB_WlimePOd7AtNE7Y9HmJ2uGExWau/view?usp=drive_link",
     bio:[
         "I'm Priyansh Saxena, an engineering-driven developer who turns complex technical challenges into high-speed web products. I manage the entire stack with a focus on clean, reusable code and seamless performance",
         "My approach focuses on creating scalable, high-performing solutions tailored to both user needs and business objectives. By prioritizing performance, accessibility, and responsiveness, I strive to deliver experiences that not only engage users but also drive tangible results.",

@@ -52,7 +52,7 @@ function About() {
 
             <FadeIn delay={240}>
               <button
-                onClick={() => window.open(PERSONAL_INFO.resume)}
+                onClick={() => window.open(import.meta.env.VITE_RESUME_LINK)}
                 className='glow-button'
               >
                 View Resume
